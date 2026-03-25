@@ -1,5 +1,5 @@
 import random
-
+#imported random for computer to choose a random options
 options = ["rock","scissors","paper"]
 userpoint = 0
 comPoint = 0
