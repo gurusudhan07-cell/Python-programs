@@ -1,6 +1,6 @@
 #TO-DO LIST
 
-tasks = []
+tasks = []  #A List to hold the task we enter
 
 while True:
     try:
