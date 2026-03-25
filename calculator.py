@@ -1,3 +1,5 @@
+#A simple calculator program to perform arithmetic operations
+
 x = int(input("ENTER 1st VALUE : "))
 y = int(input("ENTER 2nd VALUE : "))
 o = input("ENTER ONLY THE SYMBOL SPECIFIED (+,-,*,/,%,**) : ")
